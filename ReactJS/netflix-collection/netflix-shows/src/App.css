@@ -1,0 +1,15 @@
+.heading{
+  text-align: center;
+  font-size: 82px;
+  color: red;
+}
+
+.list{
+  padding-left: 30%;
+  font-size: 48px;
+  color:rgb(248, 241, 241)
+}
+
+*{
+  background-color: black;
+}
