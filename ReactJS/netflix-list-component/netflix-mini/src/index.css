@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #d2dbdd;
+}
+@media (max-width: 768px){
+  .card{
+    float:none;
+    margin:5%;
+    width:90%
+  }
+}
