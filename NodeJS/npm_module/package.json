@@ -1,0 +1,14 @@
+{
+  "name": "npm_module",
+  "version": "1.0.0",
+  "description": "npm_module learning and testing",
+  "main": "npm_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProffessorLOGAN",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
