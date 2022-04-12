@@ -25,3 +25,10 @@ body{
   color: rgb(169, 90, 248);
   padding: 15px 20px;
 }
+
+input{
+  width:20vw;
+  height:5vh;
+  text-align: center;
+
+}
