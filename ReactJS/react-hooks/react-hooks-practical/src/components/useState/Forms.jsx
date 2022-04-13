@@ -25,7 +25,6 @@ function Forms() {
       <div className="content">
         <form onSubmit={onSubmit}>
           <h1>
-           
             Hello {string} {string2}
           </h1>
 
